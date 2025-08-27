@@ -1,2 +1,2 @@
-# practiceGitHub_20250827
+# this is a title
 practice first repository
